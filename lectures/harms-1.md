@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Harms I
 nav_order: 2.2
 usemathjax: true

@@ -6,10 +6,10 @@ description: >-
 nav_exclude: true
 ---
 
-# About
+# 关于
 {:.no_toc}
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC

@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Legality
 nav_order: 3.3
 usemathjax: true

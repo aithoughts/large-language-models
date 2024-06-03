@@ -1,21 +1,21 @@
 ---
-title: Beyond large language models
+title: 超越大型语言模型
 ---
 
-Mon Feb 28
-: Guest lecture
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+2023年2月28日
+: 嘉宾讲座
+  : **讲座**{: .label .label-purple } **讨论**{: .label .label-green }
 : *[Maxwell Nye](https://maxwellnye.github.io/)*
 
-Wed Mar 2
-: Guest lecture
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
-: *[Margaret Mitchell](https://www.m-mitchell.com/) and [Stella Biderman](https://www.stellabiderman.com/)*
+2023年3月2日
+: 嘉宾讲座
+  : **讲座**{: .label .label-purple } **讨论**{: .label .label-green }
+: *[Margaret Mitchell](https://www.m-mitchell.com/) 和 [Stella Biderman](https://www.stellabiderman.com/)*
 
-Mon Mar 7
-: Project presentations
-  : **Student Presentations**{: .label .label-blue }
+2023年3月7日
+: 项目展示
+  : **学生展示**{: .label .label-blue }
 
-Wed Mar 9
-: Project presentations
-  : **Student presentations**{: .label .label-blue }
+2023年3月9日
+: 项目展示
+  : **学生展示**{: .label .label-blue }

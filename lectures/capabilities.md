@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Capabilities
 nav_order: 2.1
 usemathjax: true

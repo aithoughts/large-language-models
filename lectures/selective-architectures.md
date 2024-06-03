@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Selective architectures
 nav_order: 4.6
 usemathjax: true

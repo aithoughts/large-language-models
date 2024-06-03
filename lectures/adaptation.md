@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Adaptation
 nav_order: 4.7
 usemathjax: true

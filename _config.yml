@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stanford CS 324
-tagline: Large Language Models
-description: Understanding and developing large language models.
-author: aster.ai
+title: 斯坦福大学 CS324
+tagline: 大型语言模型
+description: 理解和开发大型语言模型。
+author: aithoughts
 url: https://aithoughts.github.io
 baseurl: '/large-language-models'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -31,6 +31,8 @@ permalink: pretty
 aux_links:
   Advances in Foundation Models:
     - 'https://aithoughts.github.io/advances-in-foundation-models/'
+
+footer_content: "Copyright &copy; 2024 <a href=\"stanford.5loi.com\">This site is powered by 5LOI.</a>"
 
 # Collections for website data
 collections:

@@ -1,40 +1,40 @@
 ---
-title: Behavior of large language models
+title: 大型语言模型的行为
 ---
 
-Mon Jan 3
-: [Introduction](../lectures/introduction)
-  : **Lecture**{: .label .label-purple }
+2023年1月3日
+: [引言](../lectures/introduction)
+  : **讲座**{: .label .label-purple }
 : *Percy Liang*
-: 1. Why does this course exist?
-  1. Language models
-  1. Overview of the course
+: 1. 为什么存在这门课程？
+  1. 语言模型
+  1. 课程概述
 
-Wed Jan 5
-: [Capabilities](../lectures/capabilities)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+2023年1月5日
+: [能力](../lectures/capabilities)
+  : **讲座**{: .label .label-purple } **讨论**{: .label .label-green }
 : *Percy Liang*
-: 1. Adaptation framework
-  1. Perplexity
-  1. Prompting
-  1. Overview of GPT-3 tasks
-: Discussion paper:
-  - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (section 1, excluding 1.4).
+: 1. 适应框架
+  1. 困惑度
+  1. 提示
+  1. GPT-3任务的概述
+: 讨论论文：
+  - [关于基础模型的机遇与风险](https://arxiv.org/pdf/2108.07258.pdf)（第1节，不包括1.4节）。
 
-Mon Jan 10
-: [Harms I](../lectures/harms-1)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+2023年1月10日
+: [危害I](../lectures/harms-1)
+  : **讲座**{: .label .label-purple } **讨论**{: .label .label-green }
 : *Rishi Bommasani*
-: 1. Performance disparities
-  1. Social bias and stereotypes
-: Discussion paper:
-  - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+: 1. 性能差异
+  1. 社会偏见和刻板印象
+: 讨论论文：
+  - [关于随机鹦鹉的危险：语言模型可以太大了吗？🦜](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
 
-Wed Jan 12
-: [Harms II](../lectures/harms-2)
-  : **Lecture**{: .label .label-purple } **Discussion**{: .label .label-green }
+2023年1月12日
+: [危害II](../lectures/harms-2)
+  : **讲座**{: .label .label-purple } **讨论**{: .label .label-green }
 : *Percy Liang*
-: 1. Toxicity
-  1. Disinformation
-: Discussion paper:
-  - [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/pdf/2009.11462.pdf)
+: 1. 毒性
+  1. 虚假信息
+: 讨论论文：
+  - [RealToxicityPrompts：评估语言模型中的神经毒性退化](https://arxiv.org/pdf/2009.11462.pdf)

@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Modeling
 nav_order: 4.2
 usemathjax: true

@@ -1,21 +1,58 @@
 ---
 layout: default
-title: Paper discussions
+title: 论文讨论
 nav_order: 6
 ---
-# Paper discussions
 
-The goal of the panel discussion is to analyze the paper from a variety of different vantage points.  During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors. 
+### 论文讨论梳理
 
-Each student should sign up for at least 2 panels. 
-- [Sign-up form to participate in panels](https://forms.gle/tfZ8xnqDvagPpVg19) (please use your Stanford email)
-- [Schedule of panelists](https://docs.google.com/spreadsheets/d/14NW3nesdE74VZFDPd-0cEFlyUwd6gnfn85OIuO-oflU/edit?usp=sharing)
+#### 讨论目标
+- 从不同角度分析论文。
 
-Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec Jacobsen’s [role-playing paper-reading seminars](https://colinraffel.com/blog/role-playing-seminar.html).
+#### 参与者
+- 每次讨论有4-5名学生组成的小组，每位成员有一个指定角色。
+- 全班同学通过评论和提问参与讨论。
+- 讨论由一位教师主持。
 
-- **Archaeologist**: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one *older* paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work. 
-- **Social Impact Assessor**: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out?
-- **Industry Practitioner**: You're a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline?  Is it worth the complexity and cost?  Does it make you think differently?
-- **Researcher**: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find *newer* papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire.
-- **Salesperson**: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award.
-- **Bug Hunter**: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity.
+#### 角色分配
+- 每个角色关注论文批判性评估的一个方面。
+
+#### 角色说明
+1. **考古学家（Archaeologist）**：
+   - 确定论文在先前工作背景下的位置。
+   - 找到被当前论文引用并对其产生重大影响的一篇较旧论文。
+   - 讨论新内容，追踪论文的各个方面（如模型、训练、数据）与先前工作的联系。
+
+2. **社会影响评估师（Social Impact Assessor）**：
+   - 评估论文对现实世界的影响（正面和负面）。
+   - 确定论文自我评估的社会影响，是否有遗漏的额外社会影响（尤其是负面的）。
+
+3. **行业实践者（Industry Practitioner）**：
+   - 从产品开发角度评估论文。
+   - 仔细查看实验，评估其说服力。
+   - 考虑是否采用新方法替代基线方法，以及其复杂性和成本是否值得。
+
+4. **研究者（Researcher）**：
+   - 评估论文发表后的影响。
+   - 寻找引用当前论文并受其重大影响的新论文，或思考当前论文可能激发的新方向。
+
+5. **销售人员（Salesperson）**：
+   - 作为论文作者，在答辩期间说服他人为什么这篇论文应该获得最佳论文奖。
+
+6. **漏洞猎人（Bug Hunter）**：
+   - 作为审查者，深入细节，发现论文在可复制性、严谨性、正确性和清晰度方面的任何问题。
+
+#### 参与方式
+- 每位学生至少报名参加2次讨论。
+- [报名表](https://forms.gle/tfZ8xnqDvagPpVg19)（请使用斯坦福邮箱）。
+- [讨论者日程表](https://docs.google.com/spreadsheets/d/14NW3nesdE74VZFDPd-0cEFlyUwd6gnfn85OIuO-oflU/edit?usp=sharing)。
+
+#### 灵感来源
+- 许多角色源自或受到Colin Raffel和Alec Jacobsen的[角色扮演论文阅读研讨会](https://colinraffel.com/blog/role-playing-seminar.html)的启发。
+
+#### 讨论目的
+- 通过不同角色的视角，全面评估学术论文。
+- 促进学生深入思考和批判性分析。
+- 增强学术交流和讨论能力。
+
+这个梳理帮助学生理解论文讨论的目的、角色和参与方式，确保能够全面、深入地参与讨论。如果你需要进一步的帮助或有关于论文讨论的具体问题，请随时提问。

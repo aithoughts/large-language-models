@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Introduction
 nav_order: 1
 usemathjax: true

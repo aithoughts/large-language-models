@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Environmental impact
 nav_order: 4.8
 usemathjax: true

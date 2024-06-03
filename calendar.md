@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Calendar
+title: 日历
 description: Listing of course modules and topics.
 nav_order: 2
 ---
 
-# Calendar
+# 课程日历
 
 {% for module in site.modules %}
 {{ module }}

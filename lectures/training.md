@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: Lectures
+parent: 课程讲义
 title: Training
 nav_order: 4.3
 usemathjax: true
