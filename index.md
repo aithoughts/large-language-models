@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 首页
+title: 课程：大型语言模型
 seo:
   type: Course
   name: {{ site.title }}
